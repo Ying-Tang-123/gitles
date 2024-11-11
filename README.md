@@ -2,4 +2,4 @@
 Deze project is voor git les oefeningen.
 
 
-Projectled: Ying, Ceren
+Projectleden: Ying, Ceren
